@@ -1,5 +1,0 @@
-default: echo_bot_1
-build_dir: C:/VANI/NRF/echo_bot_1/build_1
-domains:
-  - name: echo_bot_1
-    build_dir: C:/VANI/NRF/echo_bot_1/build_1/echo_bot_1

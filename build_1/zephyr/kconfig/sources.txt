@@ -1,4 +1,0 @@
-C:\VANI\NRF\echo_bot_1\build_1\Kconfig\Kconfig.sysbuild.modules
-C:\ncs\v2.4.2\zephyr\modules\Kconfig.sysbuild
-C:\ncs\v2.4.2\zephyr\share\sysbuild\Kconfig
-C:\ncs\v2.4.2\zephyr\share\sysbuild\bootloader\Kconfig
