@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/echo_bot_1"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/echo_bot_1.rule"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/echo_bot_1-complete.rule"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/echo_bot_1-prefix/src/echo_bot_1-stamp/echo_bot_1-build.rule"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/echo_bot_1-prefix/src/echo_bot_1-stamp/echo_bot_1-configure.rule"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/echo_bot_1-prefix/src/echo_bot_1-stamp/echo_bot_1-download.rule"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/echo_bot_1-prefix/src/echo_bot_1-stamp/echo_bot_1-install.rule"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/echo_bot_1-prefix/src/echo_bot_1-stamp/echo_bot_1-mkdir.rule"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/echo_bot_1-prefix/src/echo_bot_1-stamp/echo_bot_1-patch.rule"
+		},
+		{
+			"file" : "C:/VANI/NRF/echo_bot_1/build_1/echo_bot_1-prefix/src/echo_bot_1-stamp/echo_bot_1-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"echo_bot_1"
+		],
+		"name" : "echo_bot_1"
+	}
+}

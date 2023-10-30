@@ -1,0 +1,14 @@
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/sysbuild_guiconfig.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/boards.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/shields.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/config-twister.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/sysbuild_menuconfig.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/menuconfig.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/rebuild_cache.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/hardenconfig.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/guiconfig.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/echo_bot_1.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/echo_bot_1_cache.dir
+C:/VANI/NRF/echo_bot_1/build_1/CMakeFiles/edit_cache.dir
+C:/VANI/NRF/echo_bot_1/build_1/bootloader/CMakeFiles/edit_cache.dir
+C:/VANI/NRF/echo_bot_1/build_1/bootloader/CMakeFiles/rebuild_cache.dir
